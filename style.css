@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+}
+.conteiner{
+    max-width:70%;
+    height: 600px;
+    margin:auto;
+    background-image:url(protese1.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+.cont{
+    margin-top: 40px;
+    max-width:50%;
+    height: 600px;
+    margin:left;
+    background-color:rgba(255, 255, 255, 0.6);
+    background-size:cover;
+    padding:10px;
+    box-sizing:border-box;
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size:26px;
+    margin:10px;
+    
+}
+#texto{
+    margin:10px;
+}
+h2{
+    font-size:20px;
+    text-align:lest;
+    padding-bottom:15px;
+    margin:10px;
+}
+input{
+    width:100%;
+    
+    padding:5px;
+    border:none;
+    margin-bottom: 10px;
+    box-sizing:border-box;
+    }
