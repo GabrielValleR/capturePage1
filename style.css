@@ -1,38 +1,58 @@
 body{
-    background-color:black;
+    height: 97.7vh;
+    background-image: linear-gradient(45deg, rgb(9, 9, 138), rgb(13, 126, 38));
+    background-size: cover;    
+    display: flex;
+    background-repeat:no-repeat; 
+    align-content: center;
 }
 .conteiner{
     max-width:800px;
-    height: 500px;
+    height: 580px;
     margin:auto;
     background-image:url(protese1.png);
     background-size: cover;    
-    background-repeat:no-repeat;
-    
-    box-sizing:border-box;
+    background-repeat:no-repeat; 
     border-radius: 20px;
-    
+    display: flex;
+    align-content: flex-start;
+   
 }
-.cont{
+#texto{
     
-    max-width:50%;
-    height: 500px;
-    box-sizing:border-box;
-    margin:left;
+    width:60%;
+    height: 580px;
+    box-sizing:border-box;    
     background-color:rgba(255, 255, 255, 0.6);    
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
-
-#texto{
-    width:100%;    
-    box-sizing:border-box;
-    
+h1,h2,p{
+    margin:20px;
+}
+h1{
+    padding-top: 10px ;
+    font-size: 25px;
+}
+p{
+    font-size: 17px;
+}
+#p1{
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+h2{
+    font-size: 20px;
+    margin-bottom: 10px;
 }
 
+
+
 input{
-    width:100%;    
-    padding:5px;
-    border:none;
+    margin-left: 20px;
+    width:90%;    
+    padding:5px;    
     box-sizing:border-box;
+    border-radius: 10px;
+
     }
