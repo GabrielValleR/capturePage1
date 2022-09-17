@@ -8,3 +8,5 @@ criar uma pag de captura de nome, idade e e-mail, com texto persuasivo.
 
 Foi utilizado formulario com metodo 'POST' pois ele serve para enviar os dados para o servidor, uma requisição de armazenamento.
 O css foi feito em um arquivo css separado e lincado para o index.html, para melhor organização do código;
+![imagHtml](https://user-images.githubusercontent.com/87935531/190862453-d535d7e7-39c5-4dd8-8dc8-c57aa61d4ced.JPG)
+![css-do-projeto](https://user-images.githubusercontent.com/87935531/190862585-76d6025a-ad23-4348-ab58-0366264b22de.png)
